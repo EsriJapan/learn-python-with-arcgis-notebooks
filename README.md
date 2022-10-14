@@ -1,6 +1,6 @@
 # 「ArcGIS Notebooks での Python の使用方法の理解」のノートブック集
 
-このページは [Learn ArcGIS](https://learn-arcgis-ja-learngis.hub.arcgis.com/) のレッスン ギャラリーにある「[ArcGIS Notebooks での Python の使用方法の理解](https://learn-arcgis-ja-learngis.hub.arcgis.com/)」のラーニングパスに掲載されているノートブックのうち、ローカライズしたノートブックをまとめて公開しています。  
+このページは [Learn ArcGIS](https://learn-arcgis-ja-learngis.hub.arcgis.com/) のレッスン ギャラリーにある「[ArcGIS Notebooks での Python の使用方法の理解](https://learn.arcgis.com/ja/paths/learn-python-with-arcgis-notebooks/)」のラーニングパスに掲載されているノートブックのうち、ローカライズしたノートブックをまとめて公開しています。  
 
 ___
 「**ArcGIS Notebooks での Python の使用方法の理解**」 のラーニングパスには、次のように記載されています。
