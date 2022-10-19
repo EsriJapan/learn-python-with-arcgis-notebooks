@@ -13,6 +13,7 @@ ___
 ## ノートブック集
 
 2022年10月14日現在、5 つのノートブックをローカライズしており、ローカライズ済みのものを、下記ではタイトルを**太字**にするとともに、ノートブックへのリンクを記載しています。また、ローカライズ済みのすべてのノートブックを取得してArcGIS Pro もしくは ArcGIS Online の ArcGIS Notebooks で利用したい場合は、右上の[Code] ボタンから [Download ZIP](https://github.com/EsriJapan/learn-python-with-arcgis-notebooks/archive/refs/heads/main.zip) を選択して、一式まとめてローカルにダウンロードして頂き利用いただくことも可能です。  
+※ リンクから直接参照した場合、Markdownセルで見出し単位での折り畳みが出来ない、内部リンクをクリックした場合に404エラーになる等の制限があるため、可読性を重視する方はダウロード後、Jupyter Notebook、ArcGIS Pro もしくは ArcGIS Online にアイテム登録をして参照いただくことをお勧めします。  
 なお、それぞれのノートブック説明文は上記サイトから引用したものです。
 
 
